@@ -1,6 +1,6 @@
 # CAN project
 
-This project contains the scripts and documentation that I and two team members created for the Community Advancement Network in Austin, TX. The scripts in the get-`raw-data` folder connect to the Census API to get relevant datasets related to poverty statistics. The `transform-data` scripts transform the raw data into either detailed or overview datasets that are used in CAN's dashboards. These scripts are meant to import and export datasets in CAN's Google Drive. API keys and Google Drive IDs have been removed for this public repo.
+This project contains the scripts and documentation that I and two team members created for the Community Advancement Network in Austin, TX. The scripts in the `get-raw-data` folder connect to the Census API to get relevant datasets related to poverty statistics. The `transform-data` scripts transform the raw data into either detailed or overview datasets that are used in CAN's dashboards. These scripts are meant to import and export datasets in CAN's Google Drive. API keys and Google Drive IDs have been removed for this public repo.
 
 Below is the original readme file we created for CAN.
 
